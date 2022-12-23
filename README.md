@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiago Durante</h1>
 <h3 align="center">Backend Dev Wannabe</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thidurante&label=Profile%20views&color=0e75b6&style=flat" alt="thidurante" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thidurante&label=Profile%20views&color=red&style=flat" alt="thidurante" />
+</p>
 
 - 🌱 I’m currently learning **NodeJS, Python, MYSQL, MongoDB**
 
@@ -201,7 +203,6 @@
         alt="thidurante"
       />
     </p>
-
     <p align="center">
       <img
         align="center"
@@ -209,7 +210,6 @@
         alt="thidurante"
       />
     </p>
-
     <p align="center">
       <img
         align="center"
