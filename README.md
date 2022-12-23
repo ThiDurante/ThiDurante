@@ -1,57 +1,71 @@
 <!-- title  -->
 <h1 align="center">Hi 👋, I'm Thiago Durante</h1>
 <h3 align="center">Backend Dev Wannabe</h3>
-<h4 align="center">Digital Craftsman</h4>
 <!-- learning  -->
 <p>- 🌱 I’m currently learning **NodeJS, Python, MYSQL, MongoDB**</p>
-<p>- 📫 How to reach me **https://www.linkedin.com/in/thidurante/**</p>
 <!-- get in touch -->
-<h2>How to find me</h2>
-<a href="mailto:thiagotdurante@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="gmaillogo"
-  />
-</a>
+<h2 align="center">How to find me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thidurante/">
+    <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+    />
+    <a href="mailto:thiagotdurante@gmail.com">
+      <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="gmail"
+      />
+    </a>
+    <a href="https://www.facebook.com/thidurante/">
+      <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="facebook"
+      />
+    </a>
+    <a href="https://www.instagram.com/thiidurante/">
+      <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://steamcommunity.com/id/Teag0d/">
+    <img
+    src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
+    alt="Steam"
+    />
+  </a>
+</p>
+
 <!-- frontend -->
-<h2>Front-end</h2>
-
-<!-- Backend -->
-<h2>Back-end</h2>
+<h2 align="center">Front-end</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactRouter">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress">
+  <!-- <img src="" alt=""> -->
+</p>
 <br />
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thidurante&show_icons=true&locale=en&layout=compact"
-    alt="thidurante"
-  />
-</p>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=thidurante&show_icons=true&locale=en"
-    alt="thidurante"
-  />
-</p>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=thidurante&"
-    alt="thidurante"
-  />
-</p>
-
-<!--
-**ThiDurante/ThiDurante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Backend -->
+  <h2 align="center">Back-end</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit" alt="docker">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="msql">
+    <!-- <img src="" alt=""> -->
+    <!-- <img src="" alt=""> -->
+  </p>
+  <br />
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiDurante"
+      alt="top-languages"
+    />
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiDurante" alt="contrib">
+  </p>
