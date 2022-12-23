@@ -15,8 +15,8 @@
 <p align="center">
   <a href="https://github.com/ThiDurante?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ThiDurante?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white"/>
+</p align="center">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/last-commit/ThiDurante/custom-icon-badges?logo=history&logoColor=white"/>
 <p>
 </p>
   <h3 align="center">Languages and Tools:</h3>
