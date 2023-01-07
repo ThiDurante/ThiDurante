@@ -4,6 +4,19 @@
 <p align="center">I'm 32 years old, I love computers and all there is around them, after 31 years of my life I got into the programming world, felt in love with it and been on it learning and seeking new opportunities 😃</p>
 <p align="center">Also I like games, movies, going to the gym, pets and love rainy cold days where you can just relax e listen to the rain falling 😊</p>
 <p align="center"> Portugues is my main language but I'm also fluent in english!</p>
+<!-- stats -->
+<img
+  align='left'
+  width='47%'
+  src="https://github-readme-stats.vercel.app/api?username=ThiDurante&show_icons=true&theme=radical"
+  alt="top-languages"
+/>
+<img
+  align='left'
+  width='48%'
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiDurante&layout=compact"
+  alt="top-languages"
+/>
 <!-- learning  -->
 <!-- get in touch -->
 <h2 align="center">How to find me</h2>
@@ -62,12 +75,6 @@
     <!-- <img src="" alt=""> -->
   </p>
   <br />
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiDurante"
-      alt="top-languages"
-    />
-  </p>
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiDurante" alt="contrib">
   </p>
