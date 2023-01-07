@@ -71,10 +71,14 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit" alt="docker">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="msql">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node">
     <!-- <img src="" alt=""> -->
     <!-- <img src="" alt=""> -->
   </p>
   <br />
+  <!--
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiDurante" alt="contrib">
   </p>
+-->
