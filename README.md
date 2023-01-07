@@ -3,7 +3,7 @@
 <h3 align="center">Backend Dev Wannabe</h3>
 <p align="center">I'm 32 years old, I love computers and all there is around them, after 31 years of my life I got into the programming world, felt in love with it and been on it learning and seeking new opportunities 😃</p>
 <p align="center">Also I like games, movies, going to the gym, pets and love rainy cold days where you can just relax e listen to the rain falling 😊</p>
-<p align="center"> Portugues is my main language but I'm also fluent in english!</p>
+<p align="center"> Portuguese is my main language but I'm also fluent in english!</p>
 <!-- stats -->
 <img
   align='left'
