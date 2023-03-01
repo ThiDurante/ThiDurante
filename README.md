@@ -32,7 +32,7 @@
       alt="gmail"
       />
     </a>
-    <a href="https://www.facebook.com/thidurante/">
+    <!-- <a href="https://www.facebook.com/thidurante/">
       <img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="facebook"
@@ -42,8 +42,8 @@
       <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
-    />
-  </a>
+    /> 
+  </a> -->
   <a href="https://steamcommunity.com/id/Teag0d/">
     <img
     src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
