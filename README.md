@@ -9,13 +9,13 @@
 <img
   align='left'
   width='47%'
-  src="https://github-readme-stats.vercel.app/api?username=thidurante&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=thidurante&count_private=true&theme=dracula"
   alt="top-languages"
 />
 <img
   align='left'
   width='48%'
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiDurante&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiDurante&layout=compact&theme=dracula"
   alt="top-languages"
 />
 <!-- learning  -->
