@@ -1,7 +1,7 @@
 <!-- title  -->
 <h1 align="center">Hi 👋, I'm Thiago Durante</h1>
 <h3 align="center">FullStack Dev</h3>
-<p align="center">I love computers and all there is around them, after getting to know the programming world, I fell in love with it and been on it learning and seeking new opportunities since then 😃</p>
+<p align="center">I love computers and all there is around them, after getting to know the programming world, I fell in love with it and been on it learning since then 😃</p>
 <p align="center">Also I like games, movies, going to the gym, pets and love rainy cold days where you can just relax e listen to the rain falling 😊</p>
 <p align="center"> Portuguese is my main language but I'm also fluent in english!!</p>
 <p align="center"> My main stack is Node.js/Typescript, but I also know a little Python and I'm currently learning Java</p>
