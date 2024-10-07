@@ -4,7 +4,7 @@
 <p align="center">I love computers and all there is around them, after getting to know the programming world, I fell in love with it and been on it learning since then 😃</p>
 <p align="center">Also I like games, movies, going to the gym, pets and love rainy cold days where you can just relax e listen to the rain falling 😊</p>
 <p align="center"> Portuguese is my main language but I'm also fluent in english!!</p>
-<p align="center"> My main stack is Node.js/Typescript, but I also know a little Python and I'm currently learning Java</p>
+<p align="center"> My main stack is Ruby/Rails and Node.js/Typescript, but I also know a little Python</p>
 <!-- stats -->
 <img
   align='left'
@@ -71,17 +71,13 @@
 <!-- Backend -->
   <h2 align="center">Back-end</h2>
   <p align="center">
+    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="rails">
+    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express">
-    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestJs">
-    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha">
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=whit" alt="docker">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="msql">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
     <!-- <img src="" alt=""> -->
   </p>
   <br />
